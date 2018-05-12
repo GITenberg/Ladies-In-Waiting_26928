@@ -1,0 +1,40 @@
+_repo: Ladies-In-Waiting_26928
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Curtiss, Christine Tucke
+    gutenberg_agent_id: '32339'
+    url: http://www.gutenberg.org/2009/agents/32339
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, George Christopher, Mrs.
+    - Smith, Kate Douglas
+    - Riggs, Kate Douglas Smith Wiggin
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_issued: '2008-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26928'
+  lccn: '19015559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Courtship -- Fiction'
+tableOfContents: Miss Thomasina Tucker -- The turning-point -- Hulda the prophetess
+  -- Two on a tour -- Philippa's nervous prostration.
+title: Ladies-In-Waiting
+url: http://www.gutenberg.org/ebooks/26928
